@@ -9,6 +9,8 @@ package com.mycompany.cuentas;
  *
  * @author 1daw07
  */
+
+//comentario para la version 0.1
 public class CCuenta {
 
 
